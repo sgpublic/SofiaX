@@ -28,8 +28,6 @@ import android.view.WindowInsets;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
-import io.github.sgpublic.sofiax.R;
-
 /**
  * Created by YanZhenjie on 2017/8/30.
  */
